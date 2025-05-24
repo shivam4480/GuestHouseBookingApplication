@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestHouseBookingApplication", "GuestHouseBookingApplication\GuestHouseBookingApplication.csproj", "{D9A17009-FD80-4CE8-8316-4FFDB477B22A}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC2DEF2-9BDF-4882-8B5C-2CFD763CF765}
+	EndGlobalSection
+EndGlobal
